@@ -1,0 +1,3 @@
+[submodule "ws-event-server"]
+	path = ws-event-server
+	url = git@github.com:CPayne6/ws-event-server.git
